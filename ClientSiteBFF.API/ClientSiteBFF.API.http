@@ -1,0 +1,6 @@
+@ClientSiteBFF.API_HostAddress = http://localhost:5239
+
+GET {{ClientSiteBFF.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
